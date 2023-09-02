@@ -8,6 +8,6 @@ module "network" {
   allowed_cidr      = "0.0.0.0/0"
 
   # Altre variabili specifiche per il modulo, se necessario
-  router_name       = "example-router1"
+  router_name       = "example-router123"
   route_table_name  = "example-route-table"
 }
